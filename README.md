@@ -1,5 +1,12 @@
 # QubitWatch ML Project
 
+## PBL reports
+
+- [Previous Training PBL report](reports/AIL0303_TrainingPBL_QubitWatch_Report.pdf)
+- [Research PBL Part 2: Structured Literature Survey and Research Gap Refinement](reports/QubitWatch_PBL_Part_2_Literature_Survey.pdf)
+
+The Part 2 report is a literature survey and gap-refinement submission, not a final experimental research paper. Its preparation did not verify the original notebook or dataset; its proposed evaluation requirements should be read in that context.
+
 ## Included
 - `Models_training.ipynb` (original executed notebook)
 - `quantum_readout_error_cleaned.csv` (provided cleaned calibration dataset)
